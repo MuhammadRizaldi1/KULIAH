@@ -10,5 +10,5 @@ Hasil perhitungan (nama karyawan, gaji kotor, pajak, dan gaji bersih) akan ditam
 
 //cara menjalankan program
 Buka terminal
-ketikan diterminal cd arahkan ke folder dan file yang menyimpan file dart(tugas1.dart)
+ketikan diterminal cd arahkan ke folder 5IF3/src setelah itu ke file dart(tugas.dart)
 lalu jalankan dengan cara ketikan : dart tugas.dart
